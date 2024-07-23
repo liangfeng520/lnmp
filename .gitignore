@@ -1,0 +1,9 @@
+/data
+/logs/nginx
+/logs/redis
+/logs/php-fpm
+/logs/mysql
+/.idea
+/.env
+/www
+!/www/site/index.php
